@@ -10,12 +10,11 @@
 
 <div>About Me:</div>
 
-<ul>
-  <li>Freelancer, I specialize in website development</li>
-  <li><img height="12" width="12" src="https://cdn.simpleicons.org/wordpress/#21759B" />I perform the transfer of HTML code to WordPress</li>
-  <li>Second-year student in the field of software engineering</li>
-  <li></li>
-</ul>
+<div>
+  <div>Freelancer, I specialize in website development</div>
+  <div><img height="16" width="16" src="https://cdn.simpleicons.org/wordpress/#21759B" />I perform the transfer of HTML code to WordPress</div>
+  <div>Second-year student in the field of software engineering</div>
+</div>
 
 <div>
   <img margin="0px 20px 0px 0px" height="40" width="40" src="https://cdn.simpleicons.org/javascript/#F7DF1E" /> &nbsp <img height="40" width="40" src="https://cdn.simpleicons.org/wordpress/#21759B" />
