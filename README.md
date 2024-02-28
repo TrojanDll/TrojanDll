@@ -8,7 +8,7 @@
 </div>
 
 
-<div>About Me:</div>
+<div><strong>About Me:</strong></div>
 
 <div>
   <div>Freelancer, I specialize in website development</div>
