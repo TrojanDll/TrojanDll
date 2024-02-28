@@ -9,9 +9,9 @@
 
 
 <div><strong>About Me:</strong></div>
-
+<br>
 <div>
-  <div>Freelancer, I specialize in website development</div>
+  <div><img height="16" width="16" src="https://cdn.simpleicons.org/freelancer/#29B2FE" /> &nbsp Freelancer, I specialize in website development</div>
   <div><img height="16" width="16" src="https://cdn.simpleicons.org/wordpress/#21759B" /> &nbsp I perform the transfer of HTML code to WordPress</div>
   <div>Second-year student in the field of software engineering</div>
 </div>
