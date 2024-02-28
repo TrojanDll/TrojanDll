@@ -17,7 +17,9 @@
   <li>I create web applications using React</li>
 </ul>
 
-<h2><strong>My stack:</strong></h2>
+<h2></h2>
+
+<div><strong>My stack:</strong></div>
 <br>
 <ul>
   <li>HTML5, CSS3, JavaScript</li>
