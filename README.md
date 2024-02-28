@@ -5,12 +5,12 @@
 </div>
 
 <h2>About Me:</h2>
-<ol>
+<ul>
   <li>1</li>
   <li>1</li>
   <li>1</li>
   <li>1</li>
-</ol>
+</ul>
 
 <div>
   <img margin="0px 20px 0px 0px" height="40" width="40" src="https://cdn.simpleicons.org/javascript/#F7DF1E" /> &nbsp <img height="40" width="40" src="https://cdn.simpleicons.org/wordpress/#21759B" />
