@@ -8,12 +8,13 @@
 </div>
 
 
-<h2>About Me:</h2>
+<div>About Me:</div>
+
 <ul>
-  <li>1</li>
-  <li>1</li>
-  <li>1</li>
-  <li>1</li>
+  <li>Freelancer, I specialize in website development</li>
+  <li><img height="12" width="12" src="https://cdn.simpleicons.org/wordpress/#21759B" />I perform the transfer of HTML code to WordPress</li>
+  <li>Second-year student in the field of software engineering</li>
+  <li></li>
 </ul>
 
 <div>
