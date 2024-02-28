@@ -7,6 +7,12 @@
 </div>
 </div>
 
+<ul list-style-type="none">
+  <li>1</li>
+  <li>1</li>
+  <li>1</li>
+  <li>1</li>
+</ul>
 
 <div><strong>About Me:</strong></div>
 &nbsp &nbsp<div>
