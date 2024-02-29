@@ -37,5 +37,5 @@
 
 <div><strong>Contacts: </strong></div>
 <ul>
-  <li><a href="https://t.me/trojandll">Telegram: <img height="40" width="40" src="https://cdn.simpleicons.org/redux/#764ABC" /></a> </li>
+  <li><a href="https://t.me/trojandll" target="_blank">Telegram: <img height="40" width="40" src="https://cdn.simpleicons.org/telegram/#26A5E4" /></a> </li>
 </ul>
