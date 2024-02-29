@@ -30,5 +30,5 @@
 
 
 <div>
-  <img margin="0px 20px 0px 0px" height="40" width="40" src="https://cdn.simpleicons.org/javascript/#F7DF1E" /> &nbsp <img height="40" width="40" src="https://cdn.simpleicons.org/wordpress/#21759B" />
+  <img margin="0px 20px 0px 0px" height="40" width="40" src="https://cdn.simpleicons.org/html5/#E34F26" /> &nbsp <img margin="0px 20px 0px 0px" height="40" width="40" src="https://cdn.simpleicons.org/css3/#1572B6" /> &nbsp <img margin="0px 20px 0px 0px" height="40" width="40" src="https://cdn.simpleicons.org/html5/#E34F26" /> &nbsp <img margin="0px 20px 0px 0px" height="40" width="40" src="https://cdn.simpleicons.org/javascript/#F7DF1E" /> &nbsp <img height="40" width="40" src="https://cdn.simpleicons.org/react/#61DAFB" /> &nbsp <img height="40" width="40" src="https://cdn.simpleicons.org/redux/#764ABC" /> &nbsp <img height="40" width="40" src="https://cdn.simpleicons.org/wordpress/#21759B" />
 </div>
