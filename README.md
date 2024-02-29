@@ -1,6 +1,3 @@
-<style>
-  .text {color: red;}
-</style>
 
 <div>
   <h1 align="center">Hi there, I'm <a href="https://timur-jafarov.ru/" target="_blank">Timur</a>
