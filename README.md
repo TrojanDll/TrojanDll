@@ -22,7 +22,7 @@
 <div><strong>My stack:</strong></div>
 <br>
 <ul>
-  <li><span color="#e34f26">HTML5</span>, CSS3, JavaScript</li>
+  <li><span style="color: red">HTML5</span>, CSS3, JavaScript</li>
   <li>Bootstrap5, Pug, Tailwindcss, SASS/SCSS</li>
   <li>React, Redux, MaterialUI</li>
   <li>Wordpress</li>
