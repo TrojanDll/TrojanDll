@@ -22,7 +22,6 @@
 
 <div><strong>My stack:</strong></div>
 <br>
-<span style="color:blue">some *blue* text</span>
 <ul>
   <li><span>HTML5</span>, CSS3, JavaScript</li>
   <li>Bootstrap5, Pug, Tailwindcss, SASS/SCSS</li>
