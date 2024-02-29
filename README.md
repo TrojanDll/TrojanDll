@@ -30,5 +30,12 @@
 
 
 <div align="center">
-  <img margin="0px 20px 0px 0px" height="40" width="40" src="https://cdn.simpleicons.org/html5/#E34F26" /> &nbsp <img margin="0px 20px 0px 0px" height="40" width="40" src="https://cdn.simpleicons.org/css3/#1572B6" /> &nbsp <img margin="0px 20px 0px 0px" height="40" width="40" src="https://cdn.simpleicons.org/javascript/#F7DF1E" /> &nbsp <img margin="0px 20px 0px 0px" height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/#7952B3" />  &nbsp <img height="40" width="40" src="https://cdn.simpleicons.org/pug/#A86454" /> &nbsp <img height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss/#06B6D4" /> &nbsp <img height="40" width="40" src="https://cdn.simpleicons.org/react/#61DAFB" /> &nbsp <img height="40" width="40" src="https://cdn.simpleicons.org/redux/#764ABC" /> &nbsp <img height="40" width="40" src="https://cdn.simpleicons.org/wordpress/#21759B" />
+  <img  height="40" width="40" src="https://cdn.simpleicons.org/html5/#E34F26" /> &nbsp <img  height="40" width="40" src="https://cdn.simpleicons.org/css3/#1572B6" /> &nbsp <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/#F7DF1E" /> &nbsp <img height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/#7952B3" />  &nbsp <img height="40" width="40" src="https://cdn.simpleicons.org/pug/#A86454" /> &nbsp <img height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss/#06B6D4" /> &nbsp <img height="40" width="40" src="https://cdn.simpleicons.org/react/#61DAFB" /> &nbsp <img height="40" width="40" src="https://cdn.simpleicons.org/redux/#764ABC" /> &nbsp <img height="40" width="40" src="https://cdn.simpleicons.org/wordpress/#21759B" />
 </div>
+
+<h2></h2>
+
+<div><strong>Contacts: </strong></div>
+<ul>
+  <li><a href="https://t.me/trojandll">Telegram: <img height="40" width="40" src="https://cdn.simpleicons.org/redux/#764ABC" /></a> </li>
+</ul>
