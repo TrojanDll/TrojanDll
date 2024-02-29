@@ -1,3 +1,7 @@
+<style>
+  .text {color: red;}
+</style>
+
 <div>
   <h1 align="center">Hi there, I'm <a href="https://timur-jafarov.ru/" target="_blank">Timur</a>
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
@@ -22,7 +26,7 @@
 <div><strong>My stack:</strong></div>
 <br>
 <ul>
-  <li><span style="color: red">HTML5</span>, CSS3, JavaScript</li>
+  <li><span class="text">HTML5</span>, CSS3, JavaScript</li>
   <li>Bootstrap5, Pug, Tailwindcss, SASS/SCSS</li>
   <li>React, Redux, MaterialUI</li>
   <li>Wordpress</li>
