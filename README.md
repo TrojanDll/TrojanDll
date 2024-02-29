@@ -38,5 +38,5 @@
 <div><strong>Contacts: </strong></div>
 <ul>
   <li>Telegram: <a href="https://t.me/trojandll" target="_blank">https://t.me/trojandll</a> </li>
-  <li>Email: <a href="mail:https://t.me/trojandll" target="_blank">dzafarovt36@gmail.com</a> </li>
+  <li>Email: <a href="mailto:dzafarovt36@gmail.com" target="_blank">dzafarovt36@gmail.com</a> </li>
 </ul>
