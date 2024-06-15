@@ -25,7 +25,7 @@
 <ul>
   <li><span>HTML5</span>, CSS3, JavaScript</li>
   <li>Bootstrap5, Pug, Tailwindcss, SASS/SCSS</li>
-  <li>React, Redux, MaterialUI</li>
+  <li>React, Redux, RTK Query, MaterialUI</li>
   <li>Wordpress</li>
 </ul>
 
