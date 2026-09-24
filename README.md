@@ -14,7 +14,7 @@
 <ul>
   <li>Freelancer, I specialize in website development</li>
   <li>I translate design layouts into html</li>
-  <li>Third-year student in the field of software engineering</li>
+  <li>Fith-year student in the field of software engineering</li>
   <li>I create web applications using React</li>
 </ul>
 
